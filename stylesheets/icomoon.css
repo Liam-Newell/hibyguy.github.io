@@ -379,7 +379,7 @@
     content: "\f072";
 }
 .icon-calendar:before {
-    content: "images\github.png";
+    content:url('images\github.png');
 }
 .icon-random:before {
     content: "\f074";
